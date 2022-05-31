@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Pieris',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Pieris blog, powered by notion.so',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'JiaxiongYu',
+  github: 'THU-Pieris',
+  linkedin: 'jx-yu',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
